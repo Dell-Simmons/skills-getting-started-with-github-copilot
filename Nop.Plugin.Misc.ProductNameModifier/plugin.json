@@ -1,0 +1,11 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "Product Name Modifier",
+  "SystemName": "Misc.ProductNameModifier",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.80" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.ProductNameModifier.dll",
+  "Description": "This plugin allows you to modify product names with custom text or prefixes/suffixes"
+}
